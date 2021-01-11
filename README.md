@@ -6,21 +6,14 @@ See the app here https://vixhez.github.io/prowlr-front-end
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+
 ## Brief
 DevelopMe_ wk, 12 task. 
 
 Think up an idea for an app/website that would be achievable in a week. Choose one idea to pursue.
 
 ## General info
-Front end developers: 
-- Harry 
-- Vicky (hosted both front and back repos)
-
-Back end developers:
-- Tom
-- Ben
-
-See back end repo here https://github.com/Harry-Gardiner/prowlr-back-end
+See back end repo here https://github.com/tomHall321/prowlr-back-end
 
 As a group we collectively decided to build a fun app that would test both our front and back end skills. The app is loosely inspired by tinder and aims at providing animals with a chance to find love. Currently, the functionality of the app is like/dislike animal profiles with a results table, but we had much bigger plans!
 
